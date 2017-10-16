@@ -1,0 +1,429 @@
+------------------------------ Results ------------------------------
+------------------------------ Results ------------------------------
+------------------------------ Results ------------------------------
+------------------------------ Results ------------------------------
+Artist: Taylor Swift
+Song: Look What You Made Me Do
+Album the song is from: Look What You Made Me Do
+Preview Url: null
+------------------------------ 0 ------------------------------
+Artist: Our Last Night
+Song: Look What You Made Me Do
+Album the song is from: Look What You Made Me Do
+Preview Url: https://p.scdn.co/mp3-preview/a7d65dbe435c2a4ef216288ab4cccde94ce394b0?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 1 ------------------------------
+Artist: Joyner Lucas
+Song: Look What You Made Me Do (feat. Stefflon Don)
+Album the song is from: 508-507-2209
+Preview Url: https://p.scdn.co/mp3-preview/351bd854d447d41d75f4418fe5ee02a0b5b24708?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 2 ------------------------------
+Artist: Leo
+Song: Look What You Made Me Do (Metal Version)
+Album the song is from: Look What You Made Me Do (Metal Version)
+Preview Url: https://p.scdn.co/mp3-preview/a765faa29baee5bd0d5579e83ba41b0b75797b01?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 4 ------------------------------
+Artist: The Animal In Me
+Song: Look What You Made Me Do
+Album the song is from: Look What You Made Me Do
+Preview Url: https://p.scdn.co/mp3-preview/3683a43ea07ca15c56df36d88d97586bc9b583dd?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 3 ------------------------------
+Artist: Taylor Swift
+Song: Look What You Made Me Do
+Album the song is from: Look What You Made Me Do
+Preview Url: null
+------------------------------ 0 ------------------------------
+Artist: Our Last Night
+Song: Look What You Made Me Do
+Album the song is from: Look What You Made Me Do
+Preview Url: https://p.scdn.co/mp3-preview/a7d65dbe435c2a4ef216288ab4cccde94ce394b0?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 1 ------------------------------
+Artist: Joyner Lucas
+Song: Look What You Made Me Do (feat. Stefflon Don)
+Album the song is from: 508-507-2209
+Preview Url: https://p.scdn.co/mp3-preview/351bd854d447d41d75f4418fe5ee02a0b5b24708?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 2 ------------------------------
+Artist: The Animal In Me
+Song: Look What You Made Me Do
+Album the song is from: Look What You Made Me Do
+Preview Url: https://p.scdn.co/mp3-preview/3683a43ea07ca15c56df36d88d97586bc9b583dd?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 3 ------------------------------
+Artist: Leo
+Song: Look What You Made Me Do (Metal Version)
+Album the song is from: Look What You Made Me Do (Metal Version)
+Preview Url: https://p.scdn.co/mp3-preview/a765faa29baee5bd0d5579e83ba41b0b75797b01?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 4 ------------------------------
+@liriusblizzard: Im just here so i wont get fined
+Mon Oct 16 01:00:36 +0000 2017
+------------------------------ 0 ------------------------------
+@liriusblizzard: Im Lirius Blizzard, Human not Bot
+Mon Oct 16 01:00:19 +0000 2017
+------------------------------ 1 ------------------------------
+@liriusblizzard: Liri Activated
+Mon Oct 16 00:59:38 +0000 2017
+------------------------------ 2 ------------------------------
+@liriusblizzard: while(!(succeed( try( ) ) );
+Mon Oct 16 20:04:29 +0000 2017
+------------------------------ 0 ------------------------------
+@liriusblizzard: Confucius saw the human self as a NODE not an entity
+Mon Oct 16 19:55:21 +0000 2017
+------------------------------ 2 ------------------------------
+@liriusblizzard: Theres no sleep( ) in Javascript. Introduction to Node.js
+Mon Oct 16 19:56:18 +0000 2017
+------------------------------ 1 ------------------------------
+@liriusblizzard: jQuery is by far the most widely used library for JavaScript. It is used on more than 50% of websites.
+Mon Oct 16 19:52:50 +0000 2017
+------------------------------ 3 ------------------------------
+@liriusblizzard: Im just here so i wont get fined
+Mon Oct 16 01:00:36 +0000 2017
+------------------------------ 4 ------------------------------
+@liriusblizzard: Im Lirius Blizzard, Human not Bot
+Mon Oct 16 01:00:19 +0000 2017
+------------------------------ 5 ------------------------------
+@liriusblizzard: Liri Activated
+Mon Oct 16 00:59:38 +0000 2017
+------------------------------ 6 ------------------------------
+@liriusblizzard: while(!(succeed( try( ) ) );
+Mon Oct 16 20:04:29 +0000 2017
+------------------------------ Tweet0 ------------------------------
+@liriusblizzard: Theres no sleep( ) in Javascript. Introduction to Node.js
+Mon Oct 16 19:56:18 +0000 2017
+------------------------------ Tweet1 ------------------------------
+@liriusblizzard: Confucius saw the human self as a NODE not an entity
+Mon Oct 16 19:55:21 +0000 2017
+------------------------------ Tweet2 ------------------------------
+@liriusblizzard: jQuery is by far the most widely used library for JavaScript. It is used on more than 50% of websites.
+Mon Oct 16 19:52:50 +0000 2017
+------------------------------ Tweet3 ------------------------------
+@liriusblizzard: Im just here so i wont get fined
+Mon Oct 16 01:00:36 +0000 2017
+------------------------------ Tweet4 ------------------------------
+@liriusblizzard: Im Lirius Blizzard, Human not Bot
+Mon Oct 16 01:00:19 +0000 2017
+------------------------------ Tweet5 ------------------------------
+@liriusblizzard: Liri Activated
+Mon Oct 16 00:59:38 +0000 2017
+------------------------------ Tweet6 ------------------------------
+@liriusblizzard: while(!(succeed( try( ) ) );
+Mon Oct 16 20:04:29 +0000 2017
+------------------------------ Tweet01 ------------------------------
+@liriusblizzard: Theres no sleep( ) in Javascript. Introduction to Node.js
+Mon Oct 16 19:56:18 +0000 2017
+------------------------------ Tweet11 ------------------------------
+@liriusblizzard: Confucius saw the human self as a NODE not an entity
+Mon Oct 16 19:55:21 +0000 2017
+------------------------------ Tweet21 ------------------------------
+@liriusblizzard: jQuery is by far the most widely used library for JavaScript. It is used on more than 50% of websites.
+Mon Oct 16 19:52:50 +0000 2017
+------------------------------ Tweet31 ------------------------------
+@liriusblizzard: Im Lirius Blizzard, Human not Bot
+Mon Oct 16 01:00:19 +0000 2017
+------------------------------ Tweet51 ------------------------------
+@liriusblizzard: Im just here so i wont get fined
+Mon Oct 16 01:00:36 +0000 2017
+------------------------------ Tweet41 ------------------------------
+@liriusblizzard: Liri Activated
+Mon Oct 16 00:59:38 +0000 2017
+------------------------------ Tweet61 ------------------------------
+@liriusblizzard: while(!(succeed( try( ) ) );
+Mon Oct 16 20:04:29 +0000 2017
+------------------------------ Tweet1 ------------------------------
+@liriusblizzard: Theres no sleep( ) in Javascript. Introduction to Node.js
+Mon Oct 16 19:56:18 +0000 2017
+------------------------------ Tweet2 ------------------------------
+@liriusblizzard: Confucius saw the human self as a NODE not an entity
+Mon Oct 16 19:55:21 +0000 2017
+------------------------------ Tweet3 ------------------------------
+@liriusblizzard: jQuery is by far the most widely used library for JavaScript. It is used on more than 50% of websites.
+Mon Oct 16 19:52:50 +0000 2017
+------------------------------ Tweet4 ------------------------------
+@liriusblizzard: Im just here so i wont get fined
+Mon Oct 16 01:00:36 +0000 2017
+------------------------------ Tweet5 ------------------------------
+@liriusblizzard: Im Lirius Blizzard, Human not Bot
+Mon Oct 16 01:00:19 +0000 2017
+------------------------------ Tweet6 ------------------------------
+@liriusblizzard: Liri Activated
+Mon Oct 16 00:59:38 +0000 2017
+------------------------------ Tweet7 ------------------------------
+@liriusblizzard: while(!(succeed( try( ) ) );
+Mon Oct 16 20:04:29 +0000 2017
+------------------------------ Tweet1 ------------------------------
+@liriusblizzard: Theres no sleep( ) in Javascript. Introduction to Node.js
+Mon Oct 16 19:56:18 +0000 2017
+------------------------------ Tweet2 ------------------------------
+@liriusblizzard: Confucius saw the human self as a NODE not an entity
+Mon Oct 16 19:55:21 +0000 2017
+------------------------------ Tweet3 ------------------------------
+@liriusblizzard: Im just here so i wont get fined
+Mon Oct 16 01:00:36 +0000 2017
+------------------------------ Tweet5 ------------------------------
+@liriusblizzard: jQuery is by far the most widely used library for JavaScript. It is used on more than 50% of websites.
+Mon Oct 16 19:52:50 +0000 2017
+------------------------------ Tweet4 ------------------------------
+@liriusblizzard: Im Lirius Blizzard, Human not Bot
+Mon Oct 16 01:00:19 +0000 2017
+------------------------------ Tweet6 ------------------------------
+@liriusblizzard: Liri Activated
+Mon Oct 16 00:59:38 +0000 2017
+------------------------------ Tweet7 ------------------------------
+@liriusblizzard: while(!(succeed( try( ) ) );
+Mon Oct 16 20:04:29 +0000 2017
+------------------------------ Tweet1 ------------------------------
+@liriusblizzard: Theres no sleep( ) in Javascript. Introduction to Node.js
+Mon Oct 16 19:56:18 +0000 2017
+------------------------------ Tweet2 ------------------------------
+@liriusblizzard: Confucius saw the human self as a NODE not an entity
+Mon Oct 16 19:55:21 +0000 2017
+------------------------------ Tweet3 ------------------------------
+@liriusblizzard: jQuery is by far the most widely used library for JavaScript. It is used on more than 50% of websites.
+Mon Oct 16 19:52:50 +0000 2017
+------------------------------ Tweet4 ------------------------------
+@liriusblizzard: Im just here so i wont get fined
+Mon Oct 16 01:00:36 +0000 2017
+------------------------------ Tweet5 ------------------------------
+@liriusblizzard: Im Lirius Blizzard, Human not Bot
+Mon Oct 16 01:00:19 +0000 2017
+------------------------------ Tweet6 ------------------------------
+@liriusblizzard: Liri Activated
+Mon Oct 16 00:59:38 +0000 2017
+------------------------------ Tweet7 ------------------------------
+@liriusblizzard: while(!(succeed( try( ) ) );
+Mon Oct 16 20:04:29 +0000 2017
+------------------------------ Tweet1 ------------------------------
+@liriusblizzard: Theres no sleep( ) in Javascript. Introduction to Node.js
+Mon Oct 16 19:56:18 +0000 2017
+------------------------------ Tweet2 ------------------------------
+@liriusblizzard: Confucius saw the human self as a NODE not an entity
+Mon Oct 16 19:55:21 +0000 2017
+------------------------------ Tweet3 ------------------------------
+@liriusblizzard: jQuery is by far the most widely used library for JavaScript. It is used on more than 50% of websites.
+Mon Oct 16 19:52:50 +0000 2017
+------------------------------ Tweet4 ------------------------------
+@liriusblizzard: Im just here so i wont get fined
+Mon Oct 16 01:00:36 +0000 2017
+------------------------------ Tweet5 ------------------------------
+@liriusblizzard: Im Lirius Blizzard, Human not Bot
+Mon Oct 16 01:00:19 +0000 2017
+------------------------------ Tweet6 ------------------------------
+@liriusblizzard: Liri Activated
+Mon Oct 16 00:59:38 +0000 2017
+------------------------------ Tweet7 ------------------------------
+@theycallmeflowz: @wandecoal #iskaba
+Mon Oct 16 01:03:09 +0000 2017
+------------------------------ Tweet1 ------------------------------
+@theycallmeflowz: @DPRK_News It’s a fake account ppl, they are seeking attention from Nigerians
+Tue Sep 05 14:03:08 +0000 2017
+------------------------------ Tweet2 ------------------------------
+@theycallmeflowz: @RevoltTV Like some of my friends
+Sun Jun 25 00:52:51 +0000 2017
+------------------------------ Tweet3 ------------------------------
+@theycallmeflowz: @RevoltTV Would you poof and disappear
+Sun Jun 25 00:52:39 +0000 2017
+------------------------------ Tweet4 ------------------------------
+@theycallmeflowz: How's impossible still a thing #presidenttrump
+Fri Jan 20 18:24:24 +0000 2017
+------------------------------ Tweet5 ------------------------------
+@theycallmeflowz: Really??? So y'all gone act like nothing happened in Mile12
+Fri Mar 04 17:16:58 +0000 2016
+------------------------------ Tweet6 ------------------------------
+@theycallmeflowz: @souljaboy listening to the money huh?
+Fri Mar 04 17:05:41 +0000 2016
+------------------------------ Tweet7 ------------------------------
+@theycallmeflowz: @CoolFMNigeria #AskAyoDada do you think ADHD can be linked to obesity in girls under the age of 17
+Fri Mar 04 17:03:01 +0000 2016
+------------------------------ Tweet8 ------------------------------
+@theycallmeflowz: @iamlord_TR @slimtha6ft1 @McThaPreacha yeah but when you make a "dance" album that's UN-HipHop
+Fri Mar 04 16:22:58 +0000 2016
+------------------------------ Tweet9 ------------------------------
+@theycallmeflowz: @BarbiStash its so unfortunate
+Fri Aug 28 16:13:35 +0000 2015
+------------------------------ Tweet10 ------------------------------
+@theycallmeflowz: @BarbiStash @HipHopWired Even while hes facing death,materialism still clouds his thinking...lol Yeezy Boosts for Ego, not for life
+Fri Aug 28 16:10:31 +0000 2015
+------------------------------ Tweet11 ------------------------------
+@theycallmeflowz: @MI_Abaga guy go charge your phone abeg #nothingdoyou
+Tue Jun 09 14:46:16 +0000 2015
+------------------------------ Tweet12 ------------------------------
+@theycallmeflowz: @dhevo1 Sup
+Wed Jan 21 06:13:41 +0000 2015
+------------------------------ Tweet13 ------------------------------
+@theycallmeflowz: Jona gives us N10 change,first, he should know that we need more change than that,we will buy that gas but we won't buy that s***t
+Wed Jan 21 06:09:17 +0000 2015
+------------------------------ Tweet14 ------------------------------
+@theycallmeflowz: @dhevo1 Yo Wad up
+Sun Jun 29 03:54:19 +0000 2014
+------------------------------ Tweet15 ------------------------------
+@theycallmeflowz: #WorldCup
+Thu Jun 19 11:21:22 +0000 2014
+------------------------------ Tweet16 ------------------------------
+@theycallmeflowz: @CrookedIntriago that was the shit
+Fri Dec 06 17:59:30 +0000 2013
+------------------------------ Tweet17 ------------------------------
+@theycallmeflowz: @MobilePunch yes we will beat argentina and loose to bosnia
+Fri Dec 06 17:58:34 +0000 2013
+------------------------------ Tweet18 ------------------------------
+@theycallmeflowz: Does anybody else out there thinks @jessejagz got the best songs out this year
+Tue Nov 12 18:53:39 +0000 2013
+------------------------------ Tweet19 ------------------------------
+@theycallmeflowz: I'm throwin shots,@VectorThaViper better dodge now,I be aiming for the best,somtn like George now.....
+Thu Sep 26 16:03:11 +0000 2013
+------------------------------ Tweet20 ------------------------------
+@theycallmeflowz: @wandecoal #iskaba
+Mon Oct 16 01:03:09 +0000 2017
+------------------------------ Tweet1 ------------------------------
+@theycallmeflowz: @DPRK_News It’s a fake account ppl, they are seeking attention from Nigerians
+Tue Sep 05 14:03:08 +0000 2017
+------------------------------ Tweet2 ------------------------------
+@theycallmeflowz: @RevoltTV Like some of my friends
+Sun Jun 25 00:52:51 +0000 2017
+------------------------------ Tweet3 ------------------------------
+@theycallmeflowz: @RevoltTV Would you poof and disappear
+Sun Jun 25 00:52:39 +0000 2017
+------------------------------ Tweet4 ------------------------------
+@theycallmeflowz: How's impossible still a thing #presidenttrump
+Fri Jan 20 18:24:24 +0000 2017
+------------------------------ Tweet5 ------------------------------
+@theycallmeflowz: Really??? So y'all gone act like nothing happened in Mile12
+Fri Mar 04 17:16:58 +0000 2016
+------------------------------ Tweet6 ------------------------------
+@theycallmeflowz: @souljaboy listening to the money huh?
+Fri Mar 04 17:05:41 +0000 2016
+------------------------------ Tweet7 ------------------------------
+@theycallmeflowz: @CoolFMNigeria #AskAyoDada do you think ADHD can be linked to obesity in girls under the age of 17
+Fri Mar 04 17:03:01 +0000 2016
+------------------------------ Tweet8 ------------------------------
+@theycallmeflowz: @iamlord_TR @slimtha6ft1 @McThaPreacha yeah but when you make a "dance" album that's UN-HipHop
+Fri Mar 04 16:22:58 +0000 2016
+------------------------------ Tweet9 ------------------------------
+@theycallmeflowz: @BarbiStash its so unfortunate
+Fri Aug 28 16:13:35 +0000 2015
+------------------------------ Tweet10 ------------------------------
+@theycallmeflowz: @BarbiStash @HipHopWired Even while hes facing death,materialism still clouds his thinking...lol Yeezy Boosts for Ego, not for life
+Fri Aug 28 16:10:31 +0000 2015
+------------------------------ Tweet11 ------------------------------
+@theycallmeflowz: @MI_Abaga guy go charge your phone abeg #nothingdoyou
+Tue Jun 09 14:46:16 +0000 2015
+------------------------------ Tweet12 ------------------------------
+@theycallmeflowz: @dhevo1 Sup
+Wed Jan 21 06:13:41 +0000 2015
+------------------------------ Tweet13 ------------------------------
+@theycallmeflowz: Jona gives us N10 change,first, he should know that we need more change than that,we will buy that gas but we won't buy that s***t
+Wed Jan 21 06:09:17 +0000 2015
+------------------------------ Tweet14 ------------------------------
+@theycallmeflowz: @dhevo1 Yo Wad up
+Sun Jun 29 03:54:19 +0000 2014
+------------------------------ Tweet15 ------------------------------
+@theycallmeflowz: #WorldCup
+Thu Jun 19 11:21:22 +0000 2014
+------------------------------ Tweet16 ------------------------------
+@theycallmeflowz: @CrookedIntriago that was the shit
+Fri Dec 06 17:59:30 +0000 2013
+------------------------------ Tweet17 ------------------------------
+@theycallmeflowz: @MobilePunch yes we will beat argentina and loose to bosnia
+Fri Dec 06 17:58:34 +0000 2013
+------------------------------ Tweet18 ------------------------------
+@theycallmeflowz: I'm throwin shots,@VectorThaViper better dodge now,I be aiming for the best,somtn like George now.....
+Thu Sep 26 16:03:11 +0000 2013
+------------------------------ Tweet20 ------------------------------
+@theycallmeflowz: Does anybody else out there thinks @jessejagz got the best songs out this year
+Tue Nov 12 18:53:39 +0000 2013
+------------------------------ Tweet19 ------------------------------
+@liriusblizzard: while(!(succeed( try( ) ) );
+Mon Oct 16 20:04:29 +0000 2017
+------------------------------ Tweet1 ------------------------------
+@liriusblizzard: Theres no sleep( ) in Javascript. Introduction to Node.js
+Mon Oct 16 19:56:18 +0000 2017
+------------------------------ Tweet2 ------------------------------
+@liriusblizzard: jQuery is by far the most widely used library for JavaScript. It is used on more than 50% of websites.
+Mon Oct 16 19:52:50 +0000 2017
+------------------------------ Tweet4 ------------------------------
+@liriusblizzard: Confucius saw the human self as a NODE not an entity
+Mon Oct 16 19:55:21 +0000 2017
+------------------------------ Tweet3 ------------------------------
+@liriusblizzard: Im just here so i wont get fined
+Mon Oct 16 01:00:36 +0000 2017
+------------------------------ Tweet5 ------------------------------
+@liriusblizzard: Im Lirius Blizzard, Human not Bot
+Mon Oct 16 01:00:19 +0000 2017
+------------------------------ Tweet6 ------------------------------
+@liriusblizzard: Liri Activated
+Mon Oct 16 00:59:38 +0000 2017
+------------------------------ Tweet7 ------------------------------
+@liriusblizzard: This is Lirius !!!
+Mon Oct 16 20:48:45 +0000 2017
+------------------------------ Tweet1 ------------------------------
+@liriusblizzard: i used npm twitter, request and node-spotify-api
+Mon Oct 16 20:48:23 +0000 2017
+------------------------------ Tweet2 ------------------------------
+@liriusblizzard: while(!(succeed( try( ) ) );
+Mon Oct 16 20:04:29 +0000 2017
+------------------------------ Tweet3 ------------------------------
+@liriusblizzard: Theres no sleep( ) in Javascript. Introduction to Node.js
+Mon Oct 16 19:56:18 +0000 2017
+------------------------------ Tweet4 ------------------------------
+@liriusblizzard: jQuery is by far the most widely used library for JavaScript. It is used on more than 50% of websites.
+Mon Oct 16 19:52:50 +0000 2017
+------------------------------ Tweet6 ------------------------------
+@liriusblizzard: Confucius saw the human self as a NODE not an entity
+Mon Oct 16 19:55:21 +0000 2017
+------------------------------ Tweet5 ------------------------------
+@liriusblizzard: Im just here so i wont get fined
+Mon Oct 16 01:00:36 +0000 2017
+------------------------------ Tweet7 ------------------------------
+@liriusblizzard: Im Lirius Blizzard, Human not Bot
+Mon Oct 16 01:00:19 +0000 2017
+------------------------------ Tweet8 ------------------------------
+@liriusblizzard: Liri Activated
+Mon Oct 16 00:59:38 +0000 2017
+------------------------------ Tweet9 ------------------------------
+Artist: Harry Styles
+Song: Sign of the Times
+Album the song is from: Sign of the Times
+Preview Url: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 0 ------------------------------
+Artist: Ty Dolla $ign
+Song: Love U Better (feat. Lil Wayne & The-Dream)
+Album the song is from: Love U Better (feat. Lil Wayne & The-Dream)
+Preview Url: https://p.scdn.co/mp3-preview/9ef6e0e3e32b4220ac4ed1539ac1e4a47bf34d5d?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 1 ------------------------------
+Artist: Ty Dolla $ign
+Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album the song is from: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview Url: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 2 ------------------------------
+Artist: Harry Styles
+Song: Sign of the Times
+Album the song is from: Harry Styles
+Preview Url: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 3 ------------------------------
+Artist: Jeremih
+Song: Impatient
+Album the song is from: Late Nights: The Album
+Preview Url: null
+------------------------------ 4 ------------------------------
+Artist: Harry Styles
+Song: Sign of the Times
+Album the song is from: Sign of the Times
+Preview Url: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 0 ------------------------------
+Artist: Ty Dolla $ign
+Song: Love U Better (feat. Lil Wayne & The-Dream)
+Album the song is from: Love U Better (feat. Lil Wayne & The-Dream)
+Preview Url: https://p.scdn.co/mp3-preview/9ef6e0e3e32b4220ac4ed1539ac1e4a47bf34d5d?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 1 ------------------------------
+Artist: Ty Dolla $ign
+Song: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album the song is from: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview Url: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 2 ------------------------------
+Artist: Harry Styles
+Song: Sign of the Times
+Album the song is from: Harry Styles
+Preview Url: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=bcad004492ea4e1b84049694bb382ada
+------------------------------ 3 ------------------------------
+Artist: Jeremih
+Song: Impatient
+Album the song is from: Late Nights: The Album
+Preview Url: null
+------------------------------ 4 ------------------------------
+------------------------------ Results ------------------------------
