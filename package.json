@@ -1,0 +1,24 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "liriApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theycallmeflowz/liri-node-app.git"
+  },
+  "author": "Taiwo Tejuosho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theycallmeflowz/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/theycallmeflowz/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1"
+  }
+}
